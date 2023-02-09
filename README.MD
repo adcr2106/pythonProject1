@@ -5,4 +5,5 @@ en este repositio se encontraran 15 puntos de repaso de programacion en python, 
 3. Crear un programa que genere una lista de números aleatorios y los imprima en pantalla.
 4. Escribir un pro grama que determine si un número dado es par o impar.
 5. Crear una función que convierta grados Fahrenheit a grados Celsius.
-6. Crear un programa que calcule la suma de los números en una lista dada
+6. Crear un programa que calcule la suma de los números en una lista dada.
+7. Escribir un programa que encuentre el número más grande y el más pequeño en una lista dada.
