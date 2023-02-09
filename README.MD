@@ -12,4 +12,4 @@ en este repositio se encontraran 15 puntos de repaso de programacion en python, 
 12. Crear un programa que imprima los números del 1 al 10 utilizando un ciclo for.
 13. Crear un programa que pida al usuario ingresar dos números y calcule su suma, resta, multiplicación y
 división.
-
+14. Escribir una función que calcule la media aritmética de una lista de números.
