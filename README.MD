@@ -9,3 +9,6 @@ en este repositio se encontraran 15 puntos de repaso de programacion en python, 
 7. Escribir un programa que encuentre el número más grande y el más pequeño en una lista dada.
 9. Crear un programa que genere una matriz de números y la imprima en pantalla.
 10. Escribir una función que calcule el factorial de un número dado.
+12. Crear un programa que imprima los números del 1 al 10 utilizando un ciclo for.
+
+
