@@ -13,3 +13,4 @@ en este repositio se encontraran 15 puntos de repaso de programacion en python, 
 13. Crear un programa que pida al usuario ingresar dos números y calcule su suma, resta, multiplicación y
 división.
 14. Escribir una función que calcule la media aritmética de una lista de números.
+15. Crear un programa que pida al usuario ingresar una cadena de texto y determine si es un palíndromo o no.
