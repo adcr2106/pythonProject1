@@ -7,3 +7,4 @@ en este repositio se encontraran 15 puntos de repaso de programacion en python, 
 5. Crear una función que convierta grados Fahrenheit a grados Celsius.
 6. Crear un programa que calcule la suma de los números en una lista dada.
 7. Escribir un programa que encuentre el número más grande y el más pequeño en una lista dada.
+9. Crear un programa que genere una matriz de números y la imprima en pantalla.
